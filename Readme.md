@@ -1,3 +1,23 @@
-Sistema web * Cliente de RH
+* Design Web & Sistem Impacto Soluções em Recursos Humanos
 
-# Criando repositório 
+## Github for project system web to client
+
+
+#Estructure : 
+
+	- Front-end: Html5
+		     Foundation Zurb framework css 
+		     Javascript
+		     Gulp - atualizar os styl css. 
+	- Back-end:  Php 
+		     MVC
+		     Mysql
+		     Composer
+
+#Project 
+
+	Creating Logotype 
+	Creating Design Responsivo
+	Definition of layout-front
+
+	
