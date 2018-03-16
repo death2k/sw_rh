@@ -6,7 +6,7 @@
 #Estructure : 
 
 	- Front-end: Html5
-		     Foundation Zurb framework css 
+		     bootstrap / normalize / coursel css 
 		     Javascript
 		     Gulp - atualizar os styl css. 
 	- Back-end:  Php 
